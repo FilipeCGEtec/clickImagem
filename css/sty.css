@@ -9,18 +9,17 @@ body{
 }
 #all{
   padding: 10px;
-  background-color: rgb(18,29,19);
-  height: 100%;
+  background-color: rgb(15, 22, 37);
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  color: white;
+  color: rgb(0, 195, 255);
   position: absolute;
-  transform: tanslate(17%);
 }
 h1{
   font-family: arial;
-  color: rgb(91,102,92);
+  color: rgb(0, 195, 255);
   margin-bottom: 10px;
 }
 #caixa{
