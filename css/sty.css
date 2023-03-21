@@ -3,28 +3,26 @@
   margin: 0px; 
 }
 body{
-  background-image: url(../img/fundo.png);
-  background-repeat: no-repeat;
+  background-image: url(../img/fundo4.png);
   background-size: cover;
 }
 #all{
-  padding: 10px;
-  background-color: rgb(15, 22, 37);
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  background-image: linear-gradient(rgb(6, 9, 15), rgb(0, 12, 26));
+  height: 100vh;
+  margin-right: 5%;
+  margin-left: 5%;
   text-align: center;
   color: rgb(0, 195, 255);
-  position: absolute;
+}
+#texto{
+  padding: 2%;
+  width: 70%;
+  text-align: justify;
 }
 h1{
   font-family: arial;
   color: rgb(0, 195, 255);
   margin-bottom: 10px;
-}
-#caixa{
-  margin: auto;
-  border: solid rgb(42,63,42);
   text-align: center;
 }
 img{
